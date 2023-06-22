@@ -1,0 +1,366 @@
+,name,list_categories
+0,LAVERA,"['Lifestyle And Wellbeing', 'Sports And Leisure Equipment']"
+1,CMI ORCHARDS,['Food And Drinks']
+2,CAFIX,"['allegra', 'Breakfast Foods', 'Canned and baked food', 'Snacks, Chips and Crackers', 'Milk alternatives']"
+3,GORILLY GOODS,"['Snacks, Chips and Crackers']"
+4,LUNDBERG FAMILY FARMS,['Soups']
+5,MANUKAGUARD,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Sunglasses', 'Dresses']"
+6,MUSCO FAMILY OLIVE CO,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+7,REESE,"['Watches', 'Jewelry', 'Watches']"
+8,THE YES BAR,['Bread']
+9,HUDSON BREAD,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+10,SUPERIOR SOURCE,"['Snacks, Chips and Crackers']"
+11,MAUK FAMILY FARMS,['Food And Drinks']
+12,REBBL,['Food And Drinks']
+13,NUBIAN HERITAGE,"['Tea', 'Other infusion', 'Black tea']"
+14,FAITH IN NATURE,['Energy and coffee drinks']
+15,BRAIN JUICE,['Food And Drinks']
+16,NASOYA FOODS USA LLC,"['Watches', 'Watches']"
+17,SKINNY DIPPED,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Scarves', 'Sunglasses', 'Dresses']"
+18,EDA-ZEN,"['Milk alternatives', 'Tea', 'Beverage', 'Food And Drinks']"
+19,"EDEN FOODS, INC DBA EDEN FOODS","['Umbrellas', 'Traditional Clothing', 'Jewelry', 'Sunglasses']"
+20,MACRO LIFE NATURALS,"['Handbags', 'Handbags']"
+21,VERMINTS INC,"['Accessories', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Hats', 'Jewelry', 'Accessories', 'Gloves', 'Scarves']"
+22,INSPIRED ORGANICS,"['Shoes', 'Skirts', 'Outerwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+23,ITO EN TEAS,"['Shoes', 'Accessories', 'Activewear', 'Accessories', 'Accessories']"
+24,CAFE KREYOL,"['Herbs spices.', 'Vitamins and supplements']"
+25,OLYMPIAN LABS,"['Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts']"
+26,EVERY MAN JACK,"['Swimwear', 'Accessories', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Accessories']"
+27,LIFE EXTENSION,['Food And Drinks']
+28,"NATURE'S ONE, INC","['Shoes', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Accessories']"
+29,NATROL,"['Food And Drinks', 'Coffee']"
+30,FUNGUS AMONG US,['Food And Drinks']
+31,"SINTO GOURMET, LLC",['Shirts And Blouses']
+32,AUNUTRA INDUSTRIES INC,['Underwear And Lingerie']
+33,HENRY & LISA'S NATURAL SEAFOOD,"['Fruits And Vegetables', 'Snacks, Chips and Crackers']"
+34,MADE IN NATURE,['Herbs spices.']
+35,SUNBUTTER,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Sunglasses', 'Dresses']"
+36,SEABUCK WONDERS,"['Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+37,ENLIGHTENED,['Food And Drinks']
+38,LANCASTER FARM FRESH COOPERATIVE,"['Wallets', 'Accessories', 'Suits And Uniforms', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Belts']"
+39,BARE BONES,['Other drinks']
+40,UNICREAMER,"['Other infusion', 'Oil', 'Vitamins and supplements', 'Herbs spices.']"
+41,FLORA,"['Shoes', 'Swimwear', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Activewear', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Accessories']"
+42,GABRIELA HEARST,['Food And Drinks']
+43,88 ACRES FOODS INC,['Body soap']
+44,10TH AVENUE TEA,['Vitamins and supplements']
+45,ALMASED,"['Skin Care', 'Other nail supplies', 'Personal lubricant', 'Moisturiser', 'Mask', 'Facial toner', 'Face cleanser']"
+46,OLIVIA CHOCOLAT,['Food And Drinks']
+47,VERMONT BREAD COMPANY,['Vitamins and supplements']
+48,TERA'S WHEY,['Apparel']
+49,UNITED BY BLUE,"['Accessories', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Jewelry', 'Accessories', 'Belts']"
+50,HORIZON,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Watches', 'Jewelry', 'Accessories', 'Wallets', 'Watches']"
+51,DERMA E,['Condiments and Sauces']
+52,KITCHEN ACCOMPLICE,"['Food And Drinks', 'Seeds', 'Snacks, Chips and Crackers']"
+53,SIMPLY ORGANIC,['Food And Drinks']
+54,FOODS ALIVE,['Nectar and juices']
+55,BIOTTA,"['Tea', 'Food And Drinks']"
+56,"THE CARRINGTON TEA CO LLC, DBA CARRINGTON CO, LLC",['Jewelry']
+57,SIMPLE MILLS,"['Outerwear', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie']"
+58,OCEAN´S HALO,"['Shoes', 'Swimwear', 'Accessories', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Accessories', 'Dresses']"
+59,ACURE,['Vitamins and supplements']
+60,RADIUS,['Shoes']
+61,SOLARAY,['Food And Drinks']
+62,LANE LABS,"['Moisturiser', 'Oral Care', 'Essential Oils and Aromatherapy', 'Exfoliator', 'Body soap']"
+63,ORGANIC FIJI,"['Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Accessories']"
+64,"PETIT POT, INC",['Soups']
+65,BRANDSTORM INC,['Food And Drinks']
+66,HICKORY HARVEST FOODS,"['Shoes', 'Accessories', 'Outerwear', 'Accessories', 'Hats', 'Accessories', 'Gloves', 'Apparel']"
+67,SOMERSAULT,"['Herbs spices.', 'Vitamins and supplements']"
+68,LIDTKE TECHNOLOGIES,"['Tops And Sweaters', 'Suits And Uniforms', 'Traditional Clothing']"
+69,FRONTIER,['Home & Interiors']
+70,HALO PURELY FOR PETS,"['Outerwear', 'Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+71,BANANA REPUBLIC,"['Vitamins and supplements', 'Cosmetics']"
+72,MOMMY´S BLISS,['Vitamins and supplements']
+73,SATUR FARMS LLC,['Underwear And Lingerie']
+74,"PINES INTERNATIONAL, INC","['Apparel', 'Jeans']"
+75,AG JEANS,"['Canned and baked food', 'Condiments and Sauces']"
+76,CUCINA & AMORE,"['Vitamins and supplements', 'Oil', 'Herbs spices.']"
+77,NUTRIGOLD,['Suits And Uniforms']
+78,STRAW PROPELLER,['Grain products and nuts']
+79,ASARASI,"['Watches', 'Jewelry', 'Watches']"
+80,PERFECTLY HEALTHY,"['Vitamins and supplements', 'Herbs spices.']"
+81,PURE ESSENCE LABS,"['Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Accessories']"
+82,GERBER CHILDRENSWEAR,"['Wallets', 'Shoes', 'Accessories', 'Suits And Uniforms', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Belts']"
+83,DREW'S ALL NATURAL,"['Vitamins and supplements', 'Cosmetics']"
+84,LIFELAB,['Food And Drinks']
+85,REBEL GREEN,['Oil']
+86,MIGHTY SESAME CO,['Traditional Clothing']
+87,FUNGI PERFECTI,"['Canned and baked food', 'Breakfast Foods', 'Condiments and Sauces', 'Snacks, Chips and Crackers', 'Pasta', 'Seeds']"
+88,ANNIE'S,"['Office furniture', 'Furniture', 'Home & Interiors']"
+89,KARE PRODUCTS,"['Accessories', 'Accessories', 'Underwear And Lingerie', 'Accessories']"
+90,PEACEFUL FRUITS,"['Food And Drinks', 'Drinks']"
+91,ZAND,['Food And Drinks']
+92,CHEMISOURCE INC/ NUTRA - PAK/DBA MRM,"['Snacks, Chips and Crackers']"
+93,THE GREATER KNEAD,"['Snacks, Chips and Crackers', 'Breakfast Foods']"
+94,BEAR NAKED,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Accessories', 'Tops And Sweaters', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Accessories', 'Wallets', 'Sunglasses']"
+95,PRIVATE SELECTION,"['Coffee', 'Eggs and Dairy Products.', 'Food And Drinks']"
+96,GREEN VALLEY TRADING COMPANY DBA INVALSA COFFEE,"['Activewear', 'Underwear And Lingerie']"
+97,PARADISE HERBS,['Food And Drinks']
+98,SUNRISE COMMODITIES,['Confectionery']
+99,SNOWFLAKES,"['Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+100,LIFETIME,"['Watches', 'Jewelry', 'Watches']"
+101,NATIVE FOREST,['Quinoa']
+102,BLUE DIAMOND,"['Skirts', 'Outerwear', 'Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+103,ACADIAN COFFEE ROASTERS LLC,['Breakfast Foods']
+104,COOMBS FAMILY FARMS,['Nectar and juices']
+105,NORTH COAST,"['Earrings', 'Rings', 'Necklaces', 'Bracelets', 'OLD_Jewelry']"
+106,SOKO,"['Wallets', 'Accessories', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Accessories', 'Wallets']"
+107,EMERALD LABS,['Food And Drinks']
+108,"ALAMODE FOODS, INC","['Accessories', 'Outerwear', 'Umbrellas', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Jewelry', 'Accessories', 'Gloves', 'Scarves', 'Belts']"
+109,"MCCORMICK AND COMPANY, INC","['Water', 'Nectar and juices']"
+110,AMY AND BRIAN,['Food And Drinks']
+111,STONEWALL KITCHEN LIMITED,"['Snacks, Chips and Crackers']"
+112,"RC BIGELOW, INC","['Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts']"
+113,JAY ROBB,['Grain products and nuts']
+114,"HODO, INC DBA HODO SOY BEANERY","['Shoes', 'Tops And Sweaters', 'Outerwear', 'Pants And Shorts']"
+115,"BROWNIE BRITTLE, LLC","['Accessories', 'Outerwear', 'Activewear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Pants And Shorts', 'Accessories']"
+116,LAKEWOOD,"['Food And Drinks', 'Drinks']"
+117,SAMBAZON INC,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+118,NUTIVA,['Outerwear']
+119,BABYGANICS,"['Herbs spices.', 'Vitamins and supplements', 'Honey and pollen products']"
+120,NATURAL TOUCH,"['Tea', 'Food And Drinks']"
+121,"TWININGS NORTH AMERICA, INC","['Snacks, Chips and Crackers']"
+122,ARTISAN KETTLE,['Pants And Shorts']
+123,RSPNUTRITION,['Vitamins and supplements']
+124,TOTALLY COOL ICE CREAM,"['Coffee', 'Food And Drinks']"
+125,SUNCORE FOODS,['Textiles']
+126,OPTIMUM NUTRITION,['Food And Drinks']
+127,SHEA TERRA ORGANICS,"['Sleepwear And Loungewear', 'Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie']"
+128,RAINBOW RESEARCH,"['Skin Care', 'Oral Care', 'Home & Interiors', 'Intimate Hygiene', 'Moisturiser', 'Cosmetics']"
+129,TROPICAL OASIS,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+130,POCONO,"['Oil', 'Fruits And Vegetables']"
+131,LUCINI ITALIA,['Grain products and nuts']
+132,JEM RAW,['Breakfast Foods']
+133,SIMPLERS BOTANICALS,['Gloves']
+134,NATURE´S PLUS,"['Vitamins and supplements', 'Herbs spices.']"
+135,KYOLIC,"['Outerwear', 'Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+136,ECO TEAS,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Sunglasses', 'Belts', 'Dresses']"
+137,GARDEN OF LIFE,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Sunglasses', 'Dresses']"
+138,ACCOMPANY,['Underwear And Lingerie']
+139,ROAD´S END ORGANICS,"['Other drinks', 'Milk alternatives']"
+140,CALIFIA FARMS,"['Wallets', 'Swimwear', 'Accessories', 'Outerwear', 'Umbrellas', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Hats', 'Jewelry', 'Accessories', 'Wallets']"
+141,NATIERRA,"['Apparel', 'Jewelry']"
+142,HERB PHARM,"['Accessories', 'Accessories', 'Accessories']"
+143,NOSH,"['Oral Care', 'Sweeteners and sugar substitutes', 'Herbs spices.']"
+144,"HEALTHVERVE FOOD MANUFACTURING USA, INC",['Shirts And Blouses']
+145,VITACOST,"['Shoes', 'Flats', 'Sandals', 'Slippers and clogs', 'Boots', 'High Heels and Pumps']"
+146,SAM EDELMAN,"['Watches', 'Jewelry', 'Watches']"
+147,BELLUCCI PREMIUM,"['Shoes', 'Swimwear', 'Accessories', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Pants And Shorts', 'Accessories', 'Dresses']"
+148,FLORIDA CRYSTALS,"['Watches', 'Jewelry', 'Watches']"
+149,CAVEMAN FOODS,"['Watches', 'Jewelry', 'Watches']"
+150,SWISSTEX DIRECT,['Apparel']
+151,"GREENS FIRST-WELLNESS WATCHERS GLOBAL, LLC","['Snacks, Chips and Crackers', 'Canned and baked food', 'Seeds']"
+152,GO RAW,"['Tops And Sweaters', 'Outerwear', 'Traditional Clothing', 'Dresses']"
+153,QUEEN ELEPHANT,['Suits And Uniforms']
+154,SPROUT ORGANIC BABY FOOD,['Food And Drinks']
+155,MATERNE NORTH AMERICA CORP,"['Wallets', 'Shoes', 'Accessories', 'Shirts', 'Outerwear', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Belts']"
+156,ARTISANA,['Vitamins and supplements']
+157,THAI KITCHEN,"['Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Suits And Uniforms', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Scarves', 'Sunglasses', 'Dresses']"
+158,ORGANIC VALLEY,"['Outerwear', 'Traditional Clothing', 'Pants And Shorts']"
+159,NATURES BENEFIT,"['Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie']"
+160,BADGER,['Vitamins and supplements']
+161,LIPO NATURALS,"['Petcare', 'Fruits And Vegetables', 'Condiments and Sauces', 'Oil', 'Green tea', 'Home & Interiors', 'Confectionery', 'Black tea', 'Snacks, Chips and Crackers']"
+162,NEWMAN'S OWN,['Food And Drinks']
+163,THE ESTEE LAUDER COMPANIES INC,"['Apparel', 'OLD_Accessories', 'OLD_Handbags', 'Dresses', 'Midi dresses', 'Tops And Sweaters']"
+164,BEYOND YOGA,['Apparel']
+165,JULIAN BAKERY,"['Swimwear', 'Accessories', 'Outerwear', 'Umbrellas', 'Swimwear', 'Accessories', 'Watches', 'Hats', 'Jewelry', 'Accessories', 'Gloves', 'Watches', 'Belts']"
+166,KAREN KANE,"['Shoes', 'Accessories', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Jewelry', 'Accessories']"
+167,"GF HARVEST, LLC",['Food And Drinks']
+168,OREGON ICE CREAM,['Food And Drinks']
+169,"CIRANDA, INC","['Other hair care', 'Shaving', 'Hair Conditioner', 'Moisturiser', 'Face cleanser', 'Body soap', 'Mask']"
+170,RAW CRUNCH,"['Skirts', 'Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+171,CARRINGTON FARMS,['Food And Drinks']
+172,WISDOM NATURAL BRANDS,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+173,BOYISH,"['Tops And Sweaters', 'Outerwear']"
+174,MAVUNO HARVEST,"['Snacks, Chips and Crackers']"
+175,"PEELED INC, DBA PEELED SNACKS",['Food And Drinks']
+176,TRACE MINERALS RESEARCH,['Food And Drinks']
+177,MT OLIVE PICKLE COMPANY,['Vitamins and supplements']
+178,PURELY INSPIRED,"['Coffee', 'Food And Drinks']"
+179,AIRBORNE,"['Swimwear', 'Accessories', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Accessories']"
+180,LOLOYUM,['Household/Premises']
+181,PROBAR,['Food And Drinks']
+182,ALVARADO ST BAKERY PRODUCTION FACILITY,['Food And Drinks']
+183,"BLISS UNLIMITED, LLC","['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Wallets']"
+184,EARTH MAMA¬¨√U ORGANICS,"['Food And Drinks', 'Beverage', 'Drinks']"
+185,PURITY ORGANICS,['Fruits And Vegetables']
+186,CRISPY GREEN,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+187,BETTEROATS,"['Swimwear', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+188,ENZYMATIC THERAPY,"['Sleepwear And Loungewear', 'Underwear And Lingerie']"
+189,PURE PLANET INC,"['Pants And Shorts', 'Apparel']"
+190,UNSPUN,['Food And Drinks']
+191,SANTA BARBARA OLIVE CO,"['Wallets', 'Accessories', 'Outerwear', 'Umbrellas', 'Accessories', 'Watches', 'Traditional Clothing', 'Jewelry', 'Accessories', 'Wallets', 'Watches', 'Belts']"
+192,SUPERNOLA,['Vitamins and supplements']
+193,ALTA HEALTH PRODUCTS,"['Handbags', 'Handbags', 'Shoes', 'Accessories', 'Outerwear', 'Activewear', 'Suits And Uniforms', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories', 'Scarves', 'Belts']"
+194,SUGAR IN THE RAW,['Vitamins and supplements']
+195,INNATE,"['Shoes', 'Tops And Sweaters', 'Traditional Clothing', 'Dresses']"
+196,PAROMI TEA,"['Breakfast Foods', 'Quinoa', 'Cocoa powder', 'Jam', 'allegra', 'Vegetable and mushroom canned', 'Seeds', 'Millet', 'Herbs spices.', 'Almond', 'Fruits And Vegetables', 'Canned and baked food', 'Milk alternatives', 'Pasta', 'Hazelnut', 'Grain products and nuts', 'Snacks, Chips and Crackers', 'Flour', 'Sweeteners and sugar substitutes']"
+197,MELISSA OBADASH,"['Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Suits And Uniforms', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Scarves', 'Sunglasses', 'Dresses']"
+198,SIMPLY GUM,['Vitamins and supplements']
+199,SLIMFAST,['Food And Drinks']
+200,MEDITERRANEAN ORGANIC,['Shoes']
+201,ARTISANA ORGANICS,['Food And Drinks']
+202,SUNWEST FOODS,"['Tops And Sweaters', 'Apparel']"
+203,GREENSTITCH FASHION,['Vitamins and supplements']
+204,PajamaGram,"['Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Accessories', 'Gloves']"
+205,"MANISCHEWITZ COMPANY, THE","['Herbs spices.', 'Vitamins and supplements']"
+206,NEW CHAPTER,"['Swimwear', 'Outerwear', 'Umbrellas', 'Swimwear', 'Suits And Uniforms', 'Traditional Clothing', 'Hats']"
+207,ZINT,"['Apparel', 'Shirts And Blouses', 'Shirts', 'Polo shirts', 'T-shirts']"
+208,JOVIAL,"['Cake', 'Food And Drinks', 'Baked Food']"
+209,CLEAN FOODS INC,['Vitamins and supplements']
+210,ETICA,['Food And Drinks']
+211,SANTINI,"['Apparel', 'Activewear', 'Underwear And Lingerie', 'Shirts']"
+212,PLANTFUSION,"['Beverage', 'Food And Drinks', 'Drinks']"
+213,SUPER NUTRITION,"['Arabica coffee', 'Coffee']"
+214,BARRINGTON COFFEE ROASTING,"['Confectionery', 'Soups', 'Sweeteners and sugar substitutes']"
+215,HEAVENLY ORGANICS,"['Watches', 'Jewelry', 'Watches']"
+216,BREW LA LA TEA,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Accessories', 'One-Piece', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts']"
+217,"SWEET EARTH, INC DBA SWEET EARTH NATURAL FOODS",['Suits And Uniforms']
+218,NATURE´S ALL FOODS,['Shoes']
+219,HOLO FOOTWEAR,['Breakfast Foods']
+220,"VIVA TIERRA ORGANIC, INC","['Accessories', 'Accessories', 'Jewelry', 'Accessories', 'Dresses']"
+221,CYTOSPORT,"['Tea', 'Food And Drinks', 'Coffee']"
+222,ANCIENT AGRO,"['Toothpaste', 'Oral Care']"
+223,ESSENTIAL OXYGEN,['Food And Drinks']
+224,NORDIC NATURALS,"['Accessories', 'Accessories', 'Traditional Clothing', 'Hats', 'Accessories']"
+225,NATURIGIN,['Underwear And Lingerie']
+226,LIFE-FLO,"['Tops And Sweaters', 'Coats and Jackets', 'Apparel', 'Dresses', 'Shirts']"
+227,AMALYA MEIRA,"['Water', 'Oil']"
+228,PURA D'OR,['Food And Drinks']
+229,HARVEST & MILL,['Vitamins and supplements']
+230,KROEGER HERB,['Textiles']
+231,CENTRAL GRAZING COMPANY,['Herbs spices.']
+232,ALLIMAX,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'One-Piece', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Sunglasses', 'Belts', 'Dresses']"
+233,SKY VALLEY FOODS,"['Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts']"
+234,WHOLE E NATURE,"['Fruits And Vegetables', 'Vegetable and mushroom canned']"
+235,WESTBRAE NATURAL,['Food And Drinks']
+236,BUSH BROTHERS & COMPANY,"['Snacks, Chips and Crackers']"
+237,WILD MADE,['Food And Drinks']
+238,WHOLLY WHOLESOME A DIV OF RUN-A-TON GROUP,['Food And Drinks']
+239,SUNBUTTER LLC,"['Beverage', 'Food And Drinks']"
+240,BIOTTA JUICES,['Home & Interiors']
+241,MRS MEYER'S,"['Mask', 'Moisturiser', 'Facial toner', 'Hair coloration', 'Shower gel', 'Skin Care', 'Face cleanser', 'Hair Conditioner', 'Shaving', 'Exfoliator', 'Other hair care', 'Antiperspirant & deodorants', 'Makeup removers', 'Sunscreen']"
+242,ANDALOU NATURALS,['Oil']
+243,INTERNATIONAL COLLECTION,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Jewelry', 'Accessories', 'Wallets', 'Belts']"
+244,BOULDER CANYON,"['Cosmetics', 'Shampoo']"
+245,BABYLABS,['Hats']
+246,KETO ZONE,"['Handbags', 'Handbags', 'Shoes', 'Skirts', 'Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Jewelry', 'Scarves', 'Dresses']"
+247,BAILEY 44,"['Rice', 'Pasta', 'Flour', 'Canned and baked food']"
+248,MIRACLE NOODLE,['Black tea']
+249,TWO LEAVES AND A BUD,"['Jam', 'Condiments and Sauces']"
+250,GREEN & BLACK'S,['Food And Drinks']
+251,NOOUR INC,"['Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+252,NUUN,"['Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts']"
+253,UPLIFT DESK,['Underwear And Lingerie']
+254,DANDIES,['Herbs spices.']
+255,HIMALASALT,"['Tea', 'Coffee', 'Food And Drinks']"
+256,RUNAMOK MAPLE LLC,"['Wallets', 'Shoes', 'Accessories', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Hats', 'Jewelry', 'Accessories', 'Wallets']"
+257,SEASNAX INC,['Other drinks']
+258,BARSMITH,['Home & Interiors']
+259,WELLNESS,"['Jam', 'Oil']"
+260,BONO,"['Beverage', 'Food And Drinks']"
+261,"LODC GROUP, LTD DBA LILY OF THE DESERT NUTRACEUTICALS","['Handbags', 'Handbags', 'Shoes', 'Skirts', 'Accessories', 'Outerwear', 'Suits And Uniforms', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Jewelry', 'Accessories', 'Apparel']"
+262,"PRINCE OF PEACE ENTERPRISES, INC","['Soups', 'Lip & eyeliner', 'Vitamins and supplements']"
+263,WEDDERSPOON,"['Swimwear', 'Accessories', 'Activewear', 'Swimwear', 'Accessories', 'Accessories']"
+264,TWININGS,['Sunscreen']
+265,RISHI TEA,"['Herbs spices.', 'Moisturiser']"
+266,EIDON IONIC MINERALS,"['Accessories', 'Accessories', 'Watches', 'Hats', 'Jewelry', 'Accessories', 'Watches', 'Sunglasses']"
+267,SHEILA G'S,"['Swimwear', 'Accessories', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Outerwear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Accessories', 'Dresses']"
+268,WANDERING BEAR,"['Coffee', 'Food And Drinks']"
+269,REPURPOSE,"['Shoes', 'Skirts', 'Tops And Sweaters', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+270,GUSTUS VITAE,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Watches', 'Jewelry', 'Accessories', 'Wallets', 'Watches', 'Sunglasses']"
+271,EVERLANE,"['Food And Drinks', 'Tea']"
+272,GOOD EARTH FARMS LLC,"['Shoes', 'Skirts', 'Tops And Sweaters', 'Suits And Uniforms', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+273,NABISCO,"['Swimwear', 'Outerwear', 'Umbrellas', 'Swimwear', 'Suits And Uniforms', 'Traditional Clothing']"
+274,WASA,"['Textiles', 'Pima cotton']"
+275,DROPEL,['Food And Drinks']
+276,"AMY'S KITCHEN, INC",['Fruits And Vegetables']
+277,THE JACKFRUIT COMPANY,['Vitamins and supplements']
+278,ALEXANDER VALLEY GOURMET DBA SONOMA BRINERY,['Food And Drinks']
+279,ST CLAIRE'S ORGANICS,"['Activewear', 'Various sports outfit', 'Outerwear', 'Apparel', 'Pants And Shorts', 'Tops And Sweaters']"
+280,Patagonia Works,['Grain products and nuts']
+281,MARANATHA,['Home & Interiors']
+282,THE CITIZENRY,"['Skirts', 'Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+283,HONEYBEE GARDENS,['Food And Drinks']
+284,WOODSTOCK FARMS,"['Suits And Uniforms', 'Traditional Clothing']"
+285,POPCHIPS,"['Shoes', 'Tops And Sweaters', 'Outerwear', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts']"
+286,SUZIE'S,"['Other infusion', 'White tea']"
+287,BETTER CAROB,"['Pasta', 'Canned and baked food']"
+288,HAKUBAKU,"['Handbags', 'Handbags', 'Accessories', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories']"
+289,GH CRETORS,"['Apparel', 'Tops And Sweaters']"
+290,NATURAL SOURCES,"['Watches', 'Jewelry', 'Watches']"
+291,PHILOSOFEE BY GLAUCIA STANGANELLI,"['Swimwear', 'Accessories', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Accessories']"
+292,HOME FREE,"['Vegetable and mushroom canned', 'Condiments and Sauces']"
+293,APPALACHIAN NATURALS,"['Snacks, Chips and Crackers']"
+294,SESMARK FOODS,"['Accessories', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Accessories']"
+295,POPCORNERS,"['Soups', 'Other drinks', 'Nectar and juices', 'Vitamins and supplements', 'Fruits And Vegetables', 'Sweeteners and sugar substitutes', 'Tea', 'Canned and baked food', 'Vegetable and mushroom canned', 'Cocoa powder', 'Herbs spices.', 'Other infusion']"
+296,BROTHER BRU-BRU´S,['Vitamins and supplements']
+297,STEELCASE,['Outerwear']
+298,DOGGY DELIRIOUS,['Moisturiser']
+299,COCOROO,['Vitamins and supplements']
+300,SUNSWEET NATURALS,"['Arabica coffee', 'White tea', 'Tea', 'allegra', 'Coffee', 'Robusta coffee', 'Green tea', 'Flavored tea']"
+301,TYPHOO TEA LIMITED,['Household/Premises']
+302,ALLERGY RESEARCH GROUP,['Confectionery']
+303,LIVING HARVEST,['Pasta']
+304,"MIZKAN AMERICA, INC",['Vitamins and supplements']
+305,CLEARTRACT,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Swimwear', 'Skirts', 'Accessories', 'Tops And Sweaters', 'Outerwear', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Jewelry', 'Accessories', 'Wallets', 'Scarves', 'Sunglasses', 'Belts']"
+306,HONEY GARDENS,"['Pants And Shorts', 'Apparel']"
+307,TRIARCHY,['Hair Conditioner']
+308,EMERALD FOREST,['Food And Drinks']
+309,"BRANON SHADY MAPLES, INC","['Beverage', 'Food And Drinks']"
+310,"JAVA TRADING COMPANY, LLC DBA DISTANT LANDS","['Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Accessories', 'Gloves']"
+311,EVOLUTION SALT CO,"['Sleepwear And Loungewear', 'Activewear', 'Suits And Uniforms', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie']"
+312,SOUL NATURALIZER,"['Antiperspirant & deodorants', 'Herbs spices.', 'Vitamins and supplements']"
+313,NUTRIBIOTIC,"['Apparel', 'Nightgowns and sleepshirts', 'Dresses', 'Coats and Jackets']"
+314,EMILIA GEORGE,['Belts']
+315,KNICKEY,"['Accessories', 'Accessories', 'Accessories']"
+316,ANGIE'S,"['Grain products and nuts', 'Vitamins and supplements']"
+317,SIMPLY 7 SNACKS,['Confectionery']
+318,MACY'S,"['Watches', 'Jewelry', 'Watches']"
+319,PARISSA,['Vitamins and supplements']
+320,FLAPJACKED,['Vitamins and supplements']
+321,MIGHTY LEAF,['Food And Drinks']
+322,WAN JA SHAN,"['Flour', 'Baking', 'Canned and baked food', 'Snacks, Chips and Crackers', 'Breakfast Foods']"
+323,PAMELA'S PRODUCTS,['Outerwear']
+324,MINSLEY,"['Shirts', 'T-shirts', 'Polo shirts', 'Undershirts']"
+325,BAOBAB,"['Underwear And Lingerie', 'Apparel']"
+326,WAMA,"['Vitamins and supplements', 'Beverage', 'Energy and coffee drinks']"
+327,"FLORA, INC",['Food And Drinks']
+328,"SAN DIEGO FARMS, LLC DBA FRESH ORIGINS","['White tea', 'Tea', 'Green tea', 'Coffee']"
+329,WELLEMENTS,"['Eggs and Dairy Products.', 'Food And Drinks']"
+330,VEGGIE WASH,"['Wallets', 'Handbags', 'Handbags', 'Shoes', 'Accessories', 'Accessories', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Sunglasses', 'Belts']"
+331,KAGED MUSCLE,"['Food And Drinks', 'Apparel', 'Cosmetics']"
+332,"ROTISYSTEMS, INC DBA ROLI ROTI","['Condiments and Sauces', 'Snacks, Chips and Crackers']"
+333,"SMART JUICES, LLC",['Food And Drinks']
+334,SELINA NATURALLY CELTIC OCEAN INTERNATIONAL DBA SELINA NATURALLY,"['Shoes', 'Accessories', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Accessories']"
+335,KLAUBER BROTHERS,"['Herbs spices.', 'Condiments and Sauces', 'Canned and baked food']"
+336,PURE INDIAN FOODS,"['Watches', 'Jewelry', 'Watches']"
+337,HERBAL CUP TEA,"['Shoes', 'Accessories', 'Outerwear', 'Umbrellas', 'Accessories', 'Traditional Clothing', 'Hats', 'Jewelry', 'Accessories', 'Sunglasses']"
+338,ARTISAN TROPIC,"['Sleepwear And Loungewear', 'Underwear And Lingerie']"
+339,NATURE'S BAKERY,"['Textiles', 'Pima cotton']"
+340,OLIMPIAS TESSUTI PORDENONE,['Food And Drinks']
+341,FREED FOODS INC,"['Food And Drinks', 'Tea']"
+342,123 FARM,"['Tops And Sweaters', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Dresses']"
+343,PUREQUOSA,"['Herbs spices.', 'Nectar and juices', 'Condiments and Sauces', 'Fruits And Vegetables', 'Vitamins and supplements']"
+344,DYNAMIC HEALTH,"['Handbags', 'Handbags', 'Accessories', 'Accessories', 'Traditional Clothing', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories']"
+345,QUALITY ASSURANCE,['Shoes']
+346,FAKE MEATS,"['Watches', 'Jewelry', 'Watches']"
+347,BEECH-NUT,['Food And Drinks']
+348,"BARLEAN'S ORGANIC OILS, LLC","['Outerwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+349,NATIVE USA,['Condiments and Sauces']
+350,HAK'S,"['Tops And Sweaters', 'Outerwear', 'Suits And Uniforms', 'Pants And Shorts', 'Dresses']"
+351,MELIE BIANCO,"['Shoes', 'Accessories', 'Outerwear', 'Suits And Uniforms', 'Accessories', 'Shirts And Blouses', 'Pants And Shorts', 'Hats', 'Jewelry', 'Accessories']"
+352,UNCLE MATT'S ORGANIC,['Food And Drinks']
+353,NICHOLS PISTACHIO,['Food And Drinks']
+354,BIO NUTRITION,"['Wallets', 'Handbags', 'Handbags', 'Swimwear', 'Skirts', 'Accessories', 'Sleepwear And Loungewear', 'Tops And Sweaters', 'Umbrellas', 'Activewear', 'Swimwear', 'Suits And Uniforms', 'Accessories', 'Watches', 'Traditional Clothing', 'Shirts And Blouses', 'Pants And Shorts', 'Underwear And Lingerie', 'Hats', 'Jewelry', 'Accessories', 'Wallets', 'Gloves', 'Scarves', 'Watches', 'Sunglasses', 'Belts', 'Dresses']"
+355,YS ECO BEE FARMS,"['Jam', 'Vitamins and supplements', 'Food And Drinks', 'Syrup']"
+356,NORM'S FARMS,"['Hair coloration', 'Hair Conditioner']"
+357,LOVE BEAUTY AND PLANET,"['Confectionery', 'Dark chocolate', 'Herbs spices.', 'Jam', 'Cocoa powder', 'Almond', 'Seeds', 'Fruits And Vegetables', 'Milk alternatives', 'Hazelnut', 'Grain products and nuts']"
+358,WINDY CITY ORGANICS,"['Cosmetics', 'Toothpaste']"
+359,DR BRITE,['Breakfast Foods']
+360,GF HARVEST,['Food And Drinks']
+361,"ORGANIC MILLING, INC","['Watches', 'Jewelry', 'Watches']"
+362,"GARDEN OF LIGHT, INC DBA BAKERY ON MAIN",['Oral Care']
+363,ORALGEN,"['Soups', 'Canned and baked food', 'Breakfast Foods', 'Snacks, Chips and Crackers']"
+364,LUKE'S ORGANIC,"['Drinks', 'Tea', 'Coffee', 'Food And Drinks']"
